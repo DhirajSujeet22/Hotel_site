@@ -56,7 +56,7 @@ function Header() {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                PROMOTIONS
+                MENU
               </a>
             </li>
             <li className="nav-item">

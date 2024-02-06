@@ -11,12 +11,12 @@ function Maincon3() {
     <div className="maincon3_container">
       <div className="maincon3_container_subcon1">
         <h4>Contact Us</h4>
-        <p>ADDRESS Bangla Sahib Road, Connaught Place,</p>
+        <p>ADDRESS street 202 A-167,</p>
         <p>New Delhi - 110001, India</p>
-        <p>PHONE +91 11 42500200</p>
-        <p>FAX +91 11 42500300</p>
+        <p>PHONE +91 11 42345670</p>
+        <p>FAX +91 11 43423450</p>
 
-        <p>E-MAIL info@hotelmetdelhi.com</p>
+        <p>E-MAIL info@radiantretreats.com</p>
       </div>
       <div className="maincon3_container_subcon2">
         <div>
@@ -36,9 +36,7 @@ function Maincon3() {
         </div>
       </div>
     </div>
-    <div style={{height:"10rem"}}>
-        <img src={com_logo} alt="image not load" style={{width:"100%",height:"10rem"}} />
-    </div>
+   
     </>
   );
 }
