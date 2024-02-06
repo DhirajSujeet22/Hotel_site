@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Hotel_site/static/css/main.de6a7555.css",
+    "main.js": "/Hotel_site/static/js/main.f2505b57.js",
+    "static/js/592.a5e00786.chunk.js": "/Hotel_site/static/js/592.a5e00786.chunk.js",
+    "static/media/hotel2.jpg": "/Hotel_site/static/media/hotel2.39effd03f8547b665b9f.jpg",
+    "static/media/hotel1.jpg": "/Hotel_site/static/media/hotel1.d28b3c03668724c5252c.jpg",
+    "static/media/hotel3.jpg": "/Hotel_site/static/media/hotel3.8e4262e7731e8eeda3dd.jpg",
+    "static/media/dinner.png": "/Hotel_site/static/media/dinner.0950a76af3a2b17326ef.png",
+    "static/media/gellery.png": "/Hotel_site/static/media/gellery.080ef0afb29d5deb505e.png",
+    "static/media/rooms.png": "/Hotel_site/static/media/rooms.397470b5d58ee45a1e83.png",
+    "static/media/awards.png": "/Hotel_site/static/media/awards.e5d92dc410dd09c8408c.png",
+    "static/media/compny_logo.png": "/Hotel_site/static/media/compny_logo.fa0676d845c64b836a33.png",
+    "static/media/flogo.png": "/Hotel_site/static/media/flogo.8d6a95512d246024526c.png",
+    "static/media/mainlogo.png": "/Hotel_site/static/media/mainlogo.1a2054827b75f2ad19cd.png",
+    "static/media/logo.svg": "/Hotel_site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hotel_site/index.html",
+    "main.de6a7555.css.map": "/Hotel_site/static/css/main.de6a7555.css.map",
+    "main.f2505b57.js.map": "/Hotel_site/static/js/main.f2505b57.js.map",
+    "592.a5e00786.chunk.js.map": "/Hotel_site/static/js/592.a5e00786.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6a7555.css",
+    "static/js/main.f2505b57.js"
+  ]
+}
